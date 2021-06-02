@@ -24,4 +24,4 @@ Some of my skills: :point_down:
   <hr>
 </details>
 
-### To be Continued...:keyboard:
+### To be Continued... :keyboard:
